@@ -15,7 +15,8 @@ group：实训第七组
 
 #### URL结构
 
-每个电影详情页面的url结构为https://www.imdb.com/title/imdbid。其中，imdbid是每部电影对应的七位数字。
+每个电影详情页面的url结构为https://www.imdb.com/title/imdbid
+其中，imdbid是每部电影对应的七位数字。
 
 link.csv文件包含62000余部电影imdb id，依据这些id生成url进行爬取。link.csv来自于MovieLens发布于2019年12月的ml-25m数据集。ml-25m数据集网址：https://grouplens.org/datasets/movielens/25m/
 
